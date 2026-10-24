@@ -1,0 +1,10 @@
+{
+  "name": "Retail Navy",
+  "dataColors": ["#1F4E79", "#E07B39", "#2E75B6", "#8C8C8C", "#C0392B", "#5B9BD5", "#F4B183", "#7F7F7F"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1F4E79",
+  "good": "#2E7D32",
+  "bad": "#C0392B",
+  "neutral": "#E07B39"
+}

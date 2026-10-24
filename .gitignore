@@ -1,0 +1,44 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+~$*
+
+# Power BI temporary and backup files
+*.pbix.autosave
+*.pbit.autosave
+*.tmp
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Python generated reports and caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node.js, if used
+node_modules/
